@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Chinmaya
-- 👀 I’m interested in Traveling
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Bsc computerscience
 - 📫 How to reach me chinmaya.pa@42gmail.com
 - 😄 Pronouns: ...
