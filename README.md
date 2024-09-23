@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Bsc ComputerScience
 - 📫 How to reach me chinmaya.pa@42gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I love to travel. I have traveled to many states in my country, but I have not yet had the chance to go abroad.
 
 ### Here are my projects
 - [basic Express app with CRUD operation] -(https://github.com/88chinu/expressProjectLevel1)
