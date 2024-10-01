@@ -6,9 +6,14 @@
 - ⚡ Fun fact: I love to travel. I have traveled to many states in my country, but I have not yet had the chance to go abroad.
 
 ### Here are my projects
-- [basic Express app with CRUD operation] -(https://github.com/88chinu/expressProjectLevel1)
-- [sample Express CRUD operation with Mongodb connection ] - (https://github.com/88chinu/expressProjectLevel2)
-- [some basic react app projects] - (https://github.com/88chinu/reactProject)
+#### Express Projects
+- [basic Express app with CRUD operation](https://github.com/88chinu/expressProjectLevel1)
+- [sample Express CRUD operation with Mongodb connection ](https://github.com/88chinu/expressProjectLevel2)
+
+#### React Projects
+- [Basic React project for word-letter count](https://github.com/88chinu/reactProject/tree/main/word-letter-counter)
+- [Basic React project for lyrics-finder](https://github.com/88chinu/reactProject/tree/main/lyrics-finder)
+- 
 <!---
 88chinu/88chinu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
