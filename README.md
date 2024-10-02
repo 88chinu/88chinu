@@ -13,7 +13,10 @@
 #### React Projects
 - [Basic React project for word-letter count](https://github.com/88chinu/reactProject/tree/main/word-letter-counter)
 - [Basic React project for lyrics-finder](https://github.com/88chinu/reactProject/tree/main/lyrics-finder)
-- 
+- [Basic React project for password-checker](https://github.com/88chinu/reactProject/tree/main/password-checker)
+- [Basic React project for quote-generator](https://github.com/88chinu/reactProject/tree/main/quote-generator-react)
+- [Basic React project for weather-tracker](https://github.com/88chinu/reactProject/tree/main/weather-tracker)
+- [React project for Axios app with CURD operation](https://github.com/88chinu/reactProject/tree/main/word-letter-counter)
 <!---
 88chinu/88chinu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
