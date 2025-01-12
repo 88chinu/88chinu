@@ -16,6 +16,7 @@
 - [Basic React project for password-checker](https://github.com/88chinu/reactProject/tree/main/password-checker)
 - [Basic React project for quote-generator](https://github.com/88chinu/reactProject/tree/main/quote-generator-react)
 - [Basic React project for weather-tracker](https://github.com/88chinu/reactProject/tree/main/weather-tracker)
+- [Basic React project for Expense_Tracker](https://github.com/88chinu/reactProject/tree/main/expensetracker)
 - [React project for Axios app with CURD operation](https://github.com/88chinu/reactProject/tree/main/axios-app)
 - [React project for navigation of React Router in React application](https://github.com/88chinu/reactProject/tree/main/react_router_app)
 
